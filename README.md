@@ -1,31 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Hello+👋+I'm+Nagbhushan+Hegde;Full-Stack+Developer;Building+Clean+%26+Scalable+Applications;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=34&duration=3500&pause=1200&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Nagbhushan+Hegde;I+Build+Things+on+the+Internet;Code.+Create.+Evolve." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gamerbhai96">
-    <img src="https://img.shields.io/github/followers/gamerbhai96?label=Follow&style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-8A2BE2?style=for-the-badge" />
   <a href="https://www.linkedin.com/in/nagbhushan-hegde-32723736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## ✨ About Me
+## 🌱 Who Am I?
 
-I’m **Nagbhushan Hegde**, a **Full-Stack Developer** passionate about building  
-**real-world, scalable, and meaningful software**.
+I’m **Nagbhushan Hegde** —  
+a developer who enjoys **turning ideas into systems**,  
+and **systems into experiences**.
 
-- 🚀 Full-stack web applications  
-- 🧠 AI-powered systems & automation  
-- 🎨 Clean UI with strong backend logic  
-- 🤝 Open to collaboration & opportunities  
+I don’t just write code —  
+I **design flows**, **solve problems**, and **build products** that feel good to use.
 
 ---
 
-## 🛠 Tech Toolbox
+## 🧠 How I Think
+
+- 🧩 *Break problems until they make sense*  
+- 🔍 *Build from first principles*  
+- 🛠 *Ship fast, improve continuously*  
+- 🎨 *Care deeply about UX & clarity*  
+
+---
+
+## ⚒️ Tools I Use to Build
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,python,mongodb,docker,git,github" />
@@ -33,7 +39,7 @@ I’m **Nagbhushan Hegde**, a **Full-Stack Developer** passionate about building
 
 ---
 
-## 💻 Most Used Languages
+## 🌍 Languages I Speak (in Code)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=transparent&hide_border=true" />
@@ -41,45 +47,45 @@ I’m **Nagbhushan Hegde**, a **Full-Stack Developer** passionate about building
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I’ve Built
 
-### 🔐 AI Text-to-Speech
-AI-powered system that converts text into natural-sounding speech using modern ML models.  
-**Tech:** JavaScript • Python • AI APIs
-
----
-
-### 🌸 Eyes Perfume
-A full-stack e-commerce website for a perfume brand with a clean UI and scalable backend.  
-**Tech:** Node.js • MongoDB • React
+### 🔐 AI Text-to-Speech  
+A system that converts human ideas into human-sounding voice.  
+*Because machines should sound natural.*
 
 ---
 
-### 💬 Steamify Web Chat
-Real-time web chat application with modern UI and live messaging features.  
-**Tech:** Node.js • WebSockets • Express
+### 🌸 Eyes Perfume  
+A full-stack e-commerce experience for a modern perfume brand.  
+*Built for scale, performance & aesthetics.*
 
 ---
 
-### 📌 Pinterest Clone
-Pinterest-style application with image feeds and user interaction features.  
-**Tech:** Express.js • EJS • MongoDB
+### 💬 Steamify Web Chat  
+A real-time chat application focused on speed and simplicity.  
+*Instant. Clean. Reliable.*
 
 ---
 
-## 🌐 Let’s Connect
+### 📌 Pinterest Clone  
+An image-driven platform inspired by Pinterest.  
+*Focused on content discovery & interaction.*
+
+---
+
+## 🤝 Let’s Build Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nagbhushan-hegde-32723736a/">
     <img src="https://img.shields.io/badge/LinkedIn-Nagbhushan%20Hegde-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Build things that matter.”</i>
+  <sub>“Great software feels invisible — it just works.”</sub>
 </p>
