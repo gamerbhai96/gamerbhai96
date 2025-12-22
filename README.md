@@ -15,23 +15,13 @@
 
 ## ✨ About Me
 
-I’m **Nagbhushan Hegde**, a **Full-Stack Developer** passionate about building **meaningful, real-world software**.
+I’m **Nagbhushan Hegde**, a **Full-Stack Developer** passionate about building  
+**real-world, scalable, and meaningful software**.
 
-I enjoy working on:
-- 🚀 Scalable web applications  
-- 🧠 AI-powered systems  
-- 🎨 Clean UI with solid backend architecture  
-
-I believe in **learning by building** and continuously improving through hands-on projects.
-
----
-
-## 🧩 What I Do
-
-- 🔧 Build full-stack web applications  
-- ⚙️ Design backend APIs & databases  
-- 🎯 Focus on performance, scalability & clean code  
-- 🤝 Collaborate on innovative ideas & startups  
+- 🚀 Full-stack web applications  
+- 🧠 AI-powered systems & automation  
+- 🎨 Clean UI with strong backend logic  
+- 🤝 Open to collaboration & opportunities  
 
 ---
 
@@ -43,39 +33,37 @@ I believe in **learning by building** and continuously improving through hands-o
 
 ---
 
-## 🚀 Highlighted Projects
+## 💻 Most Used Languages
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-### 🔐 AI Text-to-Speech  
-AI-powered system to convert text into natural-sounding speech.
+---
 
-</td>
-<td width="50%">
+## 🚀 Featured Projects
 
-### 🌸 Eyes Perfume  
-Full-stack e-commerce website for a perfume brand.
+### 🔐 AI Text-to-Speech
+AI-powered system that converts text into natural-sounding speech using modern ML models.  
+**Tech:** JavaScript • Python • AI APIs
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 🌸 Eyes Perfume
+A full-stack e-commerce website for a perfume brand with a clean UI and scalable backend.  
+**Tech:** Node.js • MongoDB • React
 
-### 💬 Steamify Web Chat  
-Real-time web chat application with modern UI.
+---
 
-</td>
-<td width="50%">
+### 💬 Steamify Web Chat
+Real-time web chat application with modern UI and live messaging features.  
+**Tech:** Node.js • WebSockets • Express
 
-### 📌 Pinterest Clone  
-Pinterest-style application built using Express & EJS.
+---
 
-</td>
-</tr>
-</table>
+### 📌 Pinterest Clone
+Pinterest-style application with image feeds and user interaction features.  
+**Tech:** Express.js • EJS • MongoDB
 
 ---
 
