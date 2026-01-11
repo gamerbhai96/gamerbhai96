@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves turning ideas into reality through code. From crafting elegant web applications to experimenting with cutting-edge AI technologies, I'm constantly pushing the boundaries of what's possible in software development.
+I'm a passionate developer who loves turning ideas into reality through code. From crafting elegant web applications to experimenting with cutting-edge AI technologies, I'm constantly pushing the boundaries of what's possible in software development. 
 
 - 🔭 Currently working on **Neura** - an AI-powered project
 - 🌱 Exploring the intersection of AI and web development
