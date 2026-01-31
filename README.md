@@ -13,18 +13,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer who loves turning ideas into reality through code. From crafting elegant web applications to experimenting with cutting-edge AI technologies, I'm constantly pushing the boundaries of what's possible in software development. 
 
-- 🔭 Currently working on **Neura** - an AI-powered portfolio website builder with 0 coding
-- 🌱 Exploring the intersection of AI and web development
-- 💡 Building full-stack solutions with modern technologies
-- 🎯 Always eager to learn and collaborate on innovative projects
+-  Currently working on **Neura** - an AI-powered portfolio website builder with 0 coding
+-  Exploring the intersection of AI and web development
+-  Building full-stack solutions with modern technologies
+-  Always eager to learn and collaborate on innovative projects
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,44 +47,44 @@ I'm a passionate developer who loves turning ideas into reality through code. Fr
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
-### 🧠 [Neura](https://github.com/gamerbhai96/neura)
+###  [Neura](https://github.com/gamerbhai96/neura)
 An AI-powered project pushing the boundaries of intelligent applications.
 
 **Tech:** TypeScript
 
 ---
 
-### 👁️ [Eyes Perfume](https://github.com/gamerbhai96/eyes-perfume-main)
+###  [Eyes Perfume](https://github.com/gamerbhai96/eyes-perfume-main)
 A sophisticated full-stack perfume brand website featuring a Node.js/MongoDB backend with an AdminJS dashboard for seamless inquiry management.
 
 **Tech:** TypeScript, Node.js, MongoDB, AdminJS
 
 ---
 
-### 💰 [Finance Bot AI](https://github.com/gamerbhai96/Finance-bot-ai)
+###  [Finance Bot AI](https://github.com/gamerbhai96/Finance-bot-ai)
 An intelligent chatbot designed to answer finance-related queries with AI precision. Built with Next.js and Puter.js for seamless integration.
 
 **Tech:** Next.js, TypeScript, Puter.js
 
 ---
 
-### 📌 [Pinterest Clone](https://github.com/gamerbhai96/Pintrest-Clone)
+###  [Pinterest Clone](https://github.com/gamerbhai96/Pintrest-Clone)
 A fully functional Pinterest-inspired platform with user authentication, image uploads, boards, pins, and a dynamic feed for browsing inspirations.
 
 **Tech:** Express.js, EJS, Node.js
 
 ---
 
-### 💬 [Steamify Web Chat](https://github.com/gamerbhai96/steamify-web-chat)
+###  [Steamify Web Chat](https://github.com/gamerbhai96/steamify-web-chat)
 Real-time chat application with modern web technologies.
 
 **Tech:** JavaScript, Socket.io
 
 ---
 
-### 🔊 [AI Text-to-Speech](https://github.com/gamerbhai96/Ai-Text-to-Speech)
+###  [AI Text-to-Speech](https://github.com/gamerbhai96/Ai-Text-to-Speech)
 Transform text into natural-sounding speech using AI technology.
 
 **Tech:** JavaScript
@@ -92,7 +92,7 @@ Transform text into natural-sounding speech using AI technology.
 ---
 
 
-## 🌟 What I'm Learning
+##  What I'm Learning
 
 - 🤖 Advanced AI/ML integration in web applications
 - ⚡ Performance optimization techniques
@@ -101,7 +101,7 @@ Transform text into natural-sounding speech using AI technology.
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Transform text into natural-sounding speech using AI technology.
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=gamerbhai96&color=brightgreen&style=flat-square)
+
 
 ⭐️ From [gamerbhai96](https://github.com/gamerbhai96)
 
