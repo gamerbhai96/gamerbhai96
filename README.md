@@ -1,113 +1,168 @@
 <div align="center">
+<br/>
 
-# Hey, I'm Nagbhushan Hegde 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58A6FF&height=200&section=header&text=Nagbhushan%20Hegde&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20India&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn)
 
-**Full-Stack Developer**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+digital+experiences;Exploring+AI+%26+Web+Technologies;Always+learning%2C+always+coding)](https://github.com/gamerbhai96)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Turning+ideas+into+products+people+love.;Building+at+the+edge+of+AI+%2B+Web.;Currently+shipping+%E2%86%92+Neura+Studio.)](https://github.com/gamerbhai96)
 
-[![GitHub followers](https://img.shields.io/github/followers/gamerbhai96?style=social)](https://github.com/gamerbhai96)
-[![GitHub stars](https://img.shields.io/github/stars/gamerbhai96?style=social)](https://github.com/gamerbhai96)
-
-</div>
-
----
-
-## 🚀 Featured Project — Neura Studio
-
-<div align="center">
-
-### [🌐 neura-studio.vercel.app](https://neura-studio.vercel.app/)
-
-**Your resume. Your portfolio. Zero code.**
-
-Feed our AI your PDF resume and deploy an Awwwards-worthy Next.js portfolio in under 60 seconds.
-
-| Feature | Details |
-|---|---|
-| 🎨 **50+ Aesthetics** | WebGL, Neo Brutalism, Cyberpunk, Cinematic & more |
-| ⚡ **60s Build Time** | From PDF to deployed portfolio |
-| 🔓 **100% Code Ownership** | Pristine Next.js + Tailwind export, yours forever |
-| 💸 **Free** | All templates & AI engine, no hidden fees |
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-neura--studio.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://neura-studio.vercel.app/)
-[![Repo](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamerbhai96/neura)
+<br/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<br/>
 
-- 🔨 Currently building **Neura Studio** — AI-powered portfolio builder with zero code required
-- 🤖 Passionate about the intersection of **AI and modern web development**
-- 🌐 Full-stack developer with a love for clean code and great UX
-- 🌱 Always learning, always shipping
+## &nbsp;&nbsp;✦ &nbsp;About
 
----
+<br/>
 
-## 🛠️ Tech Stack
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a full-stack developer obsessed with the intersection of **artificial intelligence** and **modern web experiences**. I don't just build apps — I build *products*. Every project I ship solves a real problem with clean architecture and intentional design.
 
-**Languages**
+&nbsp;&nbsp;&nbsp;&nbsp;Right now, I'm all-in on **[Neura Studio](https://neura-studio.vercel.app)** — an AI-powered portfolio builder that takes your resume and deploys a world-class Next.js website in under 60 seconds, with zero code.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
 
 ---
 
-## 📦 Other Projects
+<br/>
 
-| Project | Description | Stack |
-|---|---|---|
-| [👁️ Eyes Perfume](https://github.com/gamerbhai96/eyes-perfume-main) | Full-stack perfume brand website with AdminJS dashboard for inquiry management | TypeScript, Node.js, MongoDB |
-| [💰 Finance Bot AI](https://github.com/gamerbhai96/Finance-bot-ai) | AI chatbot for finance-related queries | Next.js, TypeScript, Puter.js |
-| [📌 Pinterest Clone](https://github.com/gamerbhai96/Pintrest-Clone) | Fully functional Pinterest-style platform with auth, boards & pins | Express.js, EJS, Node.js |
-| [💬 Steamify Web Chat](https://github.com/gamerbhai96/steamify-web-chat) | Real-time chat application | JavaScript, Socket.io |
-| [🔊 AI Text-to-Speech](https://github.com/gamerbhai96/Ai-Text-to-Speech) | Transform text into natural-sounding speech using AI | JavaScript |
+## &nbsp;&nbsp;✦ &nbsp;Flagship — Neura Studio
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-![Nagbhushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamerbhai96&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://neura-studio.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerbhai96&repo=neura&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58A6FF" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=github_dark&hide_border=true)
+<br/><br/>
+
+| &nbsp; | Detail |
+|:---|:---|
+| 🌐 &nbsp;**Live** | [neura-studio.vercel.app](https://neura-studio.vercel.app) |
+| 🎯 &nbsp;**What it does** | Upload a PDF resume → AI extracts your story → deploys a stunning portfolio |
+| 🎨 &nbsp;**Templates** | 50+ award-winning aesthetics — WebGL, Neo Brutalism, Cyberpunk, Cinematic |
+| ⚡ &nbsp;**Speed** | Zero to deployed in 60 seconds |
+| 🔓 &nbsp;**Ownership** | You get the full Next.js + Tailwind source. Forever. |
+| 💸 &nbsp;**Cost** | Free. All of it. |
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Open%20App-%E2%86%97-ffffff?style=for-the-badge&labelColor=0d1117&color=58A6FF)](https://neura-studio.vercel.app)&nbsp;&nbsp;[![Source](https://img.shields.io/badge/View%20Source-%E2%86%97-ffffff?style=for-the-badge&labelColor=0d1117&color=238636)](https://github.com/gamerbhai96/neura)
 
 </div>
 
+<br/>
+
 ---
 
-## 📬 Let's Connect
+<br/>
+
+## &nbsp;&nbsp;✦ &nbsp;Arsenal
+
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-gamerbhai96-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamerbhai96)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagbhushan%20Hegde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagbhushan-hegde-32723736a/)
-[![Email](https://img.shields.io/badge/Email-nagbhushanhegde361@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagbhushanhegde361@gmail.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=ffffff)&nbsp;
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=ffffff)&nbsp;
+![Django](https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=092E20)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-161b22?style=flat-square&logo=socketdotio&logoColor=ffffff)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=ffffff)&nbsp;
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+<br/>
+
+## &nbsp;&nbsp;✦ &nbsp;Selected Work
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/gamerbhai96/Finance-bot-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerbhai96&repo=Finance-bot-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/gamerbhai96/eyes-perfume-main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerbhai96&repo=eyes-perfume-main&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58A6FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/gamerbhai96/Pintrest-Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerbhai96&repo=Pintrest-Clone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58A6FF" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/gamerbhai96/steamify-web-chat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gamerbhai96&repo=steamify-web-chat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58A6FF" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;✦ &nbsp;Metrics
+
+<br/>
+
+<div align="center">
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=gamerbhai96&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58A6FF&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=gamerbhai96&theme=transparent&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;✦ &nbsp;Connect
+
+<br/>
+
+<div align="center">
+
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagbhushan%20Hegde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/nagbhushan-hegde-32723736a/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nagbhushanhegde361@gmail.com)
+&nbsp;&nbsp;
+[![Neura](https://img.shields.io/badge/Neura%20Studio-Visit-58A6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://neura-studio.vercel.app)
+
+<br/><br/>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=gamerbhai96&style=flat-square&color=21262d&label=profile+views&labelColor=161b22)
+
+<br/><br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f2e,100:0d1117&height=100&section=footer)
 
 </div>
