@@ -1,190 +1,192 @@
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Nagbhushan%20Hegde&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=⚡%20Full-Stack%20Dev%20·%20AI%20Builder%20·%20Digital%20Craftsman%20⚡&descAlignY=65&descSize=18&descColor=a0c4ff&stroke=58A6FF&strokeWidth=2" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nagbhushan%20Hegde&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a0c4ff" width="100%"/>
+</div>
 
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+digital+experiences+%F0%9F%9A%80;Exploring+AI+%26+Web+Technologies+%F0%9F%A4%96;Always+learning%2C+Always+coding+%F0%9F%92%BB;Open+to+collaborate+%26+innovate+%E2%9C%A8)](https://git.io/typing-svg)
-
-<!-- ══════════════ SOCIAL BADGES ══════════════ -->
-
-<p align="center">
-  <a href="https://github.com/gamerbhai96">
-    <img src="https://img.shields.io/github/followers/gamerbhai96?label=Followers&style=for-the-badge&color=0d1117&labelColor=58A6FF&logo=github" />
-  </a>
-  <a href="mailto:nagbhushanhegde361@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nagbhushanhegde361-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/nagbhushan-hegde-32723736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gamerbhai96&style=for-the-badge&color=58A6FF&label=Profile+Views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%8B;Building+Neura+%E2%80%94+AI+portfolios+with+0+code+%F0%9F%A4%96;Full-Stack+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Code.+Ship.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ══════════════ ABOUT ME ══════════════ -->
+<!-- PROFILE VIEWS + SOCIAL STRIP -->
+<div align="center">
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+![Profile Views](https://komarev.com/ghpvc/?username=gamerbhai96&style=for-the-badge&color=0d1117&labelColor=58A6FF&label=👁️+PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/gamerbhai96?style=for-the-badge&color=0d1117&labelColor=58A6FF&logo=github&label=Followers)](https://github.com/gamerbhai96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117)](https://www.linkedin.com/in/nagbhushan-hegde-32723736a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:nagbhushanhegde361@gmail.com)
 
-## 🧠 About Me
+</div>
 
-Hey there! I'm **Nagbhushan Hegde** — a passionate full-stack developer from India who loves turning ideas into reality through clean, elegant code.
+---
 
-- 🔭 Currently building **[Neura](https://github.com/gamerbhai96/neura)** — an AI-powered portfolio website builder with **zero coding** required
-- 🌱 Exploring the intersection of **AI & Modern Web Development**
-- 💡 Love crafting products from **concept → deployment**
-- 🤝 Open to collaborate on **innovative & impactful projects**
-- 📬 Reach me at **nagbhushanhegde361@gmail.com**
-- ⚡ Fun fact: *Singh is King* 👑
+<!-- ABOUT ME — SPLIT LAYOUT -->
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="coding gif"/>
+
+### 🧬 `whoami`
+
+```ts
+const nagbhushan = {
+  alias     : "gamerbhai96 👑",
+  role      : "Full-Stack Developer",
+  location  : "India 🇮🇳",
+  passion   : ["AI", "Web Dev", "Clean Code"],
+  currentlyBuilding: "Neura 🤖 — AI portfolio builder",
+  openTo    : "Collabs, freelance & cool ideas",
+  funFact   : "Singh is King 🦁",
+};
+```
+
+- 🔭 Shipping **Neura** — create stunning portfolios with **zero code**
+- 🌊 Riding the wave of **AI × Full-Stack** development
+- 🧩 I turn ideas into **real, working products**
+- 💬 Ask me about **Next.js, TypeScript, Node, MongoDB**
+- ⚡ I build fast, I ship faster
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════ TECH STACK ══════════════ -->
+<!-- TECH STACK — UNIQUE GRID -->
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-
-## 📊 GitHub Stats
+## 🧰 Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gamerbhai96&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerbhai96&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+### — Languages —
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" />
+### — Frameworks & Runtime —
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+
+### — Data & Tools —
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-<!-- ══════════════ FEATURED PROJECTS ══════════════ -->
+<!-- GITHUB STATS — 3 CARD LAYOUT -->
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏗️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---|:---:|
-| [**🧠 Neura**](https://github.com/gamerbhai96/neura) | AI-powered portfolio website builder — create a stunning portfolio with **zero coding** | `TypeScript` `AI` |
-| [**🌸 Eyes Perfume**](https://github.com/gamerbhai96/eyes-perfume-main) | Full-stack perfume brand website with Node.js/MongoDB backend & AdminJS dashboard for inquiry management | `TypeScript` `Node.js` `MongoDB` |
-| [**💹 Finance Bot AI**](https://github.com/gamerbhai96/Finance-bot-ai) | Intelligent AI chatbot answering finance-related queries with precision. Built with Next.js & Puter.js | `Next.js` `TypeScript` `AI` |
-| [**📌 Pinterest Clone**](https://github.com/gamerbhai96/Pintrest-Clone) | Fully functional Pinterest-inspired platform with auth, uploads, boards, pins & dynamic feed | `Express.js` `EJS` `Node.js` |
-| [**💬 Steamify Chat**](https://github.com/gamerbhai96/steamify-web-chat) | Real-time web chat application built with WebSockets for seamless live communication | `JavaScript` `Socket.io` |
-| [**🎙️ AI Text-to-Speech**](https://github.com/gamerbhai96/Ai-Text-to-Speech) | Converts text into natural-sounding speech using AI technology | `JavaScript` `AI` |
-
-</div>
-
----
-
-<!-- ══════════════ CURRENTLY LEARNING ══════════════ -->
-
-## 🌱 Currently Leveling Up
-
-```text
-🤖  Advanced AI/ML integration in web applications
-⚡  Performance optimization & scalability
-🎨  Modern UI/UX design patterns & motion design
-🔐  Authentication, security & best practices
-```
-
----
-
-<!-- ══════════════ CONTRIBUTION GRAPH ══════════════ -->
-
-## 🐍 Contribution Snake
+## 📊 By The Numbers
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamerbhai96/gamerbhai96/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamerbhai96/gamerbhai96/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gamerbhai96/gamerbhai96/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Nagbhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gamerbhai96&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/gamerbhai96)
-
-</div>
-
----
-
-<!-- ══════════════ QUOTE ══════════════ -->
-
-<div align="center">
-
-## 💭 Dev Wisdom
-
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamerbhai96&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerbhai96&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6"/>
 
 <br/>
 
-<!-- ══════════════ CONNECT ══════════════ -->
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=gamerbhai96&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e"/>
 
-## 🤝 Let's Build Something Great
+</div>
 
-<a href="https://github.com/gamerbhai96">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nagbhushan-hegde-32723736a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:nagbhushanhegde361@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<br/><br/>
+<!-- GITHUB TROPHIES -->
 
-⭐️ *If you find my work interesting, consider starring a repo — it keeps me going!* ⭐️
+## 🏆 Trophy Room
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gamerbhai96&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- PROFILE SUMMARY CARDS -->
+
+## 📦 Dev Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerbhai96&theme=github_dark)](https://github.com/gamerbhai96)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerbhai96&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerbhai96&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamerbhai96&theme=github_dark&utcOffset=5.5" width="32%"/>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS — BENTO CARD STYLE -->
+
+## 🚀 Flagship Projects
+
+<div align="center">
+
+| | Project | What it does | Stack |
+|:---:|:---|:---|:---:|
+| 🤖 | [**Neura**](https://github.com/gamerbhai96/neura) | AI-powered portfolio builder — stunning sites, zero coding | `TS` `AI` |
+| 🌸 | [**Eyes Perfume**](https://github.com/gamerbhai96/eyes-perfume-main) | Full-stack luxury perfume brand with AdminJS dashboard | `TS` `Node` `MongoDB` |
+| 💹 | [**Finance Bot AI**](https://github.com/gamerbhai96/Finance-bot-ai) | AI chatbot that answers finance queries intelligently | `Next.js` `Puter.js` |
+| 📌 | [**Pinterest Clone**](https://github.com/gamerbhai96/Pintrest-Clone) | Full Pinterest experience — auth, boards, pins, feed | `Express` `EJS` |
+| 💬 | [**Steamify Chat**](https://github.com/gamerbhai96/steamify-web-chat) | Real-time web chat with WebSockets | `JS` `Socket.io` |
+| 🎙️ | [**AI Text-to-Speech**](https://github.com/gamerbhai96/Ai-Text-to-Speech) | Natural AI voice generation from any text | `JavaScript` |
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+
+## 📈 Commit Pulse
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gamerbhai96&theme=react-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true&custom_title=Nagbhushan's%20Contribution%20Graph)](https://github.com/gamerbhai96)
+
+</div>
+
+---
+
+<!-- RANDOM DEV QUOTE -->
+
+## 💬 Today's Fuel
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+### 🤝 Let's Create Something Legendary
+
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamerbhai96)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nagbhushan-hegde-32723736a/)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nagbhushanhegde361@gmail.com)
+
+<br/>
+
+> *"Singh is King — and kings ship."* 👑
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
