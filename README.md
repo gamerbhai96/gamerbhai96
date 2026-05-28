@@ -100,13 +100,13 @@ const nagbhushan = {
 
 ---
 
-<!-- GITHUB TROPHIES -->
+<!-- SKILL ICONS -->
 
-## 🏆 Trophy Room
+## ✨ Skills at a Glance
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gamerbhai96&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,nodejs,express,django,mongodb,git,github,vercel,vscode&theme=dark&perline=8" />
 
 </div>
 
